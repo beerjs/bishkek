@@ -30,4 +30,6 @@ BeerJS takes place every 2-3 weeks at 8 p.m.
     <img src="./picsFromEvents/29-09-2023/photo_2023-09-29 11.15.44.jpeg" alt="beerjs 2" />
     <img src="./picsFromEvents/29-09-2023/photo_2023-09-29 11.15.49.jpeg" alt="beerjs 2" />
     <img src="./picsFromEvents/29-09-2023/photo_2023-09-29 11.15.50.jpeg" alt="beerjs 2" />
+    <img src="./picsFromEvents/29-09-2023/photo_2023-09-29 12.14.50.jpeg" alt="beerjs 2" />
+    <img src="./picsFromEvents/29-09-2023/photo_2023-09-29 12.14.53.jpeg" alt="beerjs 2" />
 </details>
