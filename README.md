@@ -4,7 +4,9 @@ The events are for those who work in IT field or want to work there. The main pu
 
 We meet up in bars and talk about IT or whatever you want to talk about. Use these events to find new friends or job opportunities, or just to explore new bars and venues.
 
-BeerJS takes place every 2-3 weeks at 8 p.m.
+BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
+
+[➡️ Join BeerJS Telegram Chat](https://t.me/beerjs_bishkek)
 
 ## Past Events
 
