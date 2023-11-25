@@ -6,7 +6,7 @@ We meet up in bars and talk about IT or whatever you want to talk about. Use the
 
 BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
 
-[➡️ Join BeerJS Telegram Chat](https://t.me/beerjs_bishkek)
+➡️ [Join BeerJS Telegram Chat](https://t.me/beerjs_bishkek)
 
 ## Past Events
 
