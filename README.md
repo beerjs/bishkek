@@ -16,6 +16,7 @@ BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
 | 2   | September 29, 2023 | PIVO Bar                            |                        |
 | 3   | October 26, 2023   | Guinness Pub (Harat's)              |                        |
 | 4   | November 30, 2023  | Craft Center                        |                        |
+| 5   | December 14, 2023  | Chocos                              |                        |
 
 ## Pics From Events
 
@@ -58,4 +59,8 @@ BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
     <summary><b>#4</b></summary>
     <img src="./picsFromEvents/30-11-2023/photo_2023-12-08 13.11.22.jpeg" alt="beerjs 4" />
     <img src="./picsFromEvents/30-11-2023/photo_2023-12-08 13.11.24.jpeg" alt="beerjs 4" />
+</details>
+<details>
+    <summary><b>#5</b></summary>
+    <img src="./picsFromEvents/14-12-2023/photo_2023-12-19 09.57.19.jpeg" alt="beerjs 5" />
 </details>
