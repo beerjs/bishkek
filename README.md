@@ -17,6 +17,7 @@ BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
 | 3   | October 26, 2023   | Guinness Pub (Harat's)              |                        |
 | 4   | November 30, 2023  | Craft Center                        |                        |
 | 5   | December 14, 2023  | Chocos                              |                        |
+| 6   | January 26, 2024   | Somewhere Bistro                    |                        |
 
 ## Pics From Events
 
@@ -63,4 +64,18 @@ BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
 <details>
     <summary><b>#5</b></summary>
     <img src="./picsFromEvents/14-12-2023/photo_2023-12-19 09.57.19.jpeg" alt="beerjs 5" />
+</details>
+<details>
+    <summary><b>#6</b></summary>
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.23.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.25.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.26.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.36.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.38.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.39.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.40.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.42.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.44.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.45.jpeg" alt="beerjs 6" />
+    <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.47.jpeg" alt="beerjs 6" />
 </details>
