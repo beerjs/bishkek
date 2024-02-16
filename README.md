@@ -18,6 +18,7 @@ BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
 | 4   | November 30, 2023  | Craft Center                        |                        |
 | 5   | December 14, 2023  | Chocos                              |                        |
 | 6   | January 26, 2024   | Somewhere Bistro                    |                        |
+| 7   | February 26, 2024  | Munchen Pub                         |                        |
 
 ## Pics From Events
 
@@ -78,4 +79,15 @@ BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
     <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.44.jpeg" alt="beerjs 6" />
     <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.45.jpeg" alt="beerjs 6" />
     <img src="./picsFromEvents/26-01-2024/photo_2024-02-08 11.10.47.jpeg" alt="beerjs 6" />
+</details>
+<details>
+    <summary><b>#7</b></summary>
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.13.jpeg" alt="beerjs 7" />
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.15.jpeg" alt="beerjs 7" />
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.17.jpeg" alt="beerjs 7" />
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.19.jpeg" alt="beerjs 7" />
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.24.jpeg" alt="beerjs 7" />
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.26 (1).jpeg" alt="beerjs 7" />
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.26.jpeg" alt="beerjs 7" />
+    <img src="./picsFromEvents/13-02-2024/photo_2024-02-16 13.03.27.jpeg" alt="beerjs 7" />
 </details>
