@@ -18,7 +18,7 @@ BeerJS takes place every 2-3 weeks on Thursdays at 8 p.m.
 | 4   | November 30, 2023  | Craft Center                        |                        |
 | 5   | December 14, 2023  | Chocos                              |                        |
 | 6   | January 26, 2024   | Somewhere Bistro                    |                        |
-| 7   | February 26, 2024  | Munchen Pub                         |                        |
+| 7   | February 13, 2024  | Munchen Pub                         |                        |
 
 ## Pics From Events
 
